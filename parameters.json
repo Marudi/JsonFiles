@@ -100,6 +100,6 @@
     }
   },
   "requestSource": {
-    "value": "string",
+    "value": "string"
   }
 }
