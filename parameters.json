@@ -97,9 +97,8 @@
     },
     "warningThreshold": {
       "value": 1
+    },
+    "requestSource": {
+      "value": "string"
     }
-  },
-  "requestSource": {
-    "value": "string"
   }
-}
