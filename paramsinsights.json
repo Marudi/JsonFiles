@@ -6,10 +6,10 @@
             "value": "asplatform-azuredemo"
         },
         "domainNameLabel": {
-            "value":"sitatest"
+            "value":"azuredemo"
         },
         "environment": {
-            "value":"deploy"
+            "value":"asplatform"
         }
     }
 }
