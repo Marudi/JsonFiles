@@ -3,7 +3,8 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "domainNameLabel": {
-      "type":"string"
+      "type":"string",
+      "defaultValue": "azuredemo"
     },
     "appInsightsName": {
       "defaultValue": "asplatform-azuredemo",
