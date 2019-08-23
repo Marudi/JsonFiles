@@ -11,7 +11,7 @@
     },
     "environment": {
       "type": "string",
-      "defaultValue": "deploy"
+      "defaultValue": "deploy",
       "metadata": {
         "description": "Deployment environment"
       }
