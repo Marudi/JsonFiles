@@ -7,7 +7,7 @@
       "defaultValue": "azuredemo"
     },
     "appInsightsName": {
-      "defaultValue": "asplatform-azuredemo",
+      "defaultValue": "azuredemo",
       "type": "string"
     },
     "environment": {
